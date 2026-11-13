@@ -1,2 +1,2 @@
-cliente1 = catald9923
+cliente1 = cataldo9923
 Alexadnra = 9923 Encargado
